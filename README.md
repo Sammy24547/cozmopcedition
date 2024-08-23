@@ -74,4 +74,4 @@ Cozmo will take a cube when we ask to if he sees the selectionned cube
 
 ## Adding AI
 
-Cozmo will be maybe powered my Google Gemini AI and we will be able to have a real conversation with him.
+Cozmo will be maybe powered my Google Gemini AI and we will be able to have a real conversation with him. And + Gemini API key is free, so you can use the Conversation robot for free. Like Anki said "Big brain, Bigger personnality"

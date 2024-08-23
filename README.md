@@ -5,7 +5,7 @@ Cozmo PC EDITION
 
 Get A Python version 3.7 recommended
 ```bash
-pip install cozmo flask  PIL request threading Numpy Pillow
+pip install cozmo flask  PIL request threading Numpy Pillow time cozmo[camera]
 ```
 
 Run __py [cpe.py path]__ in _cmd.exe_
